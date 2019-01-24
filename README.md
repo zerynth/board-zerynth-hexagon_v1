@@ -1,1 +1,1 @@
-# board-zerynth-hexagon_v1
+AWS Hexagon v1
