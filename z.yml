@@ -1,0 +1,15 @@
+---
+description: Add support for AWS Hexagon v1
+fullname: board.zerynth.hexagon_v1
+info:
+    board: AWS Hexagon v1
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- aws
+- hexagon
+- esp32
+- board
+title: AWS Hexagon v1 Support Package
+...
